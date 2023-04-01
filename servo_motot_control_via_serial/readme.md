@@ -1,4 +1,5 @@
-**ServoMotor Control Using Arduino Serial Monitor**
+### ServoMotor Control Using Arduino Serial Monitor
+This project demonstrates control of a servo motor using serial commands in Arduino Serial Monitor.  
 
 - Setting different angles from the serial monitor terminal to turn the servo motor by that angle. 
 - Operating range : [0-180] degrees
